@@ -1,0 +1,160 @@
+body {
+background:url(img/fondo5.jpg);
+background-attachment: fixed;
+background-repeat: repeat;
+bgcolor="#00FFBF"
+}
+
+#logo{
+
+	padding:  10px 0px 0 20px;
+	margin: 0px 20px 0px 0px;
+	float: left;
+	width: 200;
+	height: 100;
+
+
+}
+
+#logo:hover{
+	width: 210;
+	height: 110;
+
+}
+
+#titulo
+{	
+	margin-top: 10px;
+	font-size: 30;
+	font-family: 'Mr Dafoe', 'Arial', cursive;
+	align:left;
+	height: 100%;
+
+}
+
+
+.header
+{
+	width: 100%;
+	height: 20%;
+	background-color: rgba(0,0,0,0.1);
+
+}
+
+.header a {
+
+	text-decoration: none;
+	font-size: 20;
+	font-family: 'Mr Dafoe', 'Arial', cursive;
+
+}
+
+.header a:hover
+{	
+	font-size: 25;
+	color: blue;
+	background-color: white;
+}
+
+.artIzq 
+{
+float: left;	
+width: 40%;
+height: 100%
+}
+
+.artDer 
+{
+float: right;	
+width: 60%;
+height: 100%
+}
+
+h1
+{
+
+	font-family: 'Architects Daughter', cursive;
+
+}
+
+h2
+{
+
+	font-family: 'Balsamiq Sans', cursive;
+
+}
+
+h5
+{
+
+	text-align: center;
+	font-family: 'Pacifico', 'Arial', cursive;
+
+}
+
+
+
+ul
+{
+	margin: 0;
+	padding: 0;
+	list-style:none;
+}
+
+
+
+nav
+{
+
+	float: right;
+	margin-top: 10px;
+
+}
+
+
+
+li
+{
+	float: left;
+	padding: 0 20px 0 20px;
+}
+
+a: hover {
+	color: blue;
+	background-color: white;
+}
+
+footer {
+	padding-top: 10px;
+	text-align: center;
+	width: 100%;
+	height: 8%;
+	background-color: rgba(0,0,0,0.1);
+}
+
+
+/*_________CSS CONTACTO_______________*/
+
+.contacto {
+
+margin-left: 20px;
+
+}
+
+/*_________CSS DESCARGABLES_______________*/
+
+
+.mensajes {
+
+
+
+}
+
+/*_________CSS TESTIMONIOS_______________*/
+
+
+.testimonios {
+
+
+
+}
